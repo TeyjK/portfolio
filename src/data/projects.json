@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Lumbar Degeneration Classifier",
+    "description": "Multi-class, region-specific MRI classification; 0.95 micro-AUC, 87% accuracy.",
+    "technologies": ["PyTorch", "NumPy", "Gradio"],
+    "metrics": "0.95 AUC, 87% acc"
+  },
+  {
+    "title": "Medical Imaging Pipeline",
+    "description": "CNN low-dose X-ray simulation; cut experiment time 40%, 26.55 dB PSNR, 0.92 SSIM.",
+    "technologies": ["PyTorch", "NumPy"],
+    "metrics": "40% faster, 26.55 dB, 0.92 SSIM"
+  },
+  {
+    "title": "React Native Mortgage App",
+    "description": "Real-time market insights, plan comparison, responsive UI.",
+    "technologies": ["React Native", "Figma"]
+  },
+  {
+    "title": "EEG Signal Classifier",
+    "description": "Processed 350k+ samples; 98.15% accuracy; visualized neural activity.",
+    "technologies": ["PyTorch", "NumPy", "Matplotlib"],
+    "metrics": "98.15% accuracy"
+  }
+]
